@@ -9,7 +9,7 @@
    - [How To Install LEMP Stack On Ubuntu 22.04](https://cloudcone.com/docs/article/how-to-install-lemp-stack-on-ubuntu-22-04/)
    - 安裝過程中，務必注意啟用 ufw 之後，要把 ssh 開起來，否則會出現 server 還活著，但就是 ssh 不進去的狀況。
      - [Ufw Firewall Allow SSH](https://linuxhint.com/ufw-firewall-allow-ssh/)
- - [How To Install MariaDB on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-22-04)
+     - [How To Install MariaDB on Ubuntu 22.04](https://www.digitalocean.com/community/tutorials/how-to-install-mariadb-on-ubuntu-22-04)
 5. serve複數個網站
    - [How to Host Multiple Websites on One Server](https://www.cloudpanel.io/tutorial/how-to-host-multiple-websites-on-one-server/#steps-to-host-multiple-websites-on-one-server--nginx)
    - [How to Configure Nginx to serve Multiple Websites on a Single VPS](https://webdock.io/en/docs/how-guides/shared-hosting-multiple-websites/how-configure-nginx-to-serve-multiple-websites-single-vps)
