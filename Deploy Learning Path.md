@@ -16,4 +16,4 @@
 5. Install and deploy Multiple Laravel Projects
    - [How to Install and Configure Laravel 8 with Nginx (LEMP) on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-lemp-on-ubuntu-18-04)
    - [How to Deploy A Laravel App With Nginx on Ubuntu(LEMP)](https://www.iankumu.com/blog/how-to-deploy-a-laravel-app-on-lemp-stack/)
-6. 可以往 [[API Learning Path]] 前進
+6. 可以往 [API Learning Path](obsidian://open?vault=JYu's%20Obsidian&file=pages%2FAPI%20Learning%20Path) 前進
