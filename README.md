@@ -22,7 +22,7 @@
 
 ## II. 
 
-[Laravel Learning Path]()
+[Laravel Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Laravel%20Learning%20Path.md)
 
 [Javascript Learning Path]()
 
@@ -30,7 +30,7 @@
 
 ## 中階
 
-[Deploy Learning Path]()
+[Deploy Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Deploy%20Learning%20Path.md)
 
-[API Learning Path]()
+[API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)
 

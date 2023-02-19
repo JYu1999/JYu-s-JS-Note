@@ -1,4 +1,4 @@
-1. 建議在第六點之前，完成 [[Laravel Learning Path]]
+1. 建議在第六點之前，完成[Laravel Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Laravel%20Learning%20Path.md)
 2. 先了解 hosting 是什麼，有哪些種類
    - [不是工程師 架站用VPS還是Web Hosting，中文翻譯都有「虛擬」到底差在哪？](https://progressbar.tw/posts/102)
    - [學習VPS的重要性與各大Linux VPS 比較與推薦 (Linode, DigitalOcean, Vultr, AWS Lightsail)
@@ -18,4 +18,4 @@
    - [How to Install and Configure Laravel 8 with Nginx (LEMP) on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-laravel-with-lemp-on-ubuntu-18-04)
    - [How to Deploy A Laravel App With Nginx on Ubuntu(LEMP)](https://www.iankumu.com/blog/how-to-deploy-a-laravel-app-on-lemp-stack/)
 8. (optional) 更深入的了解自己所選用的 host 的其他服務 
-9. 往 [[API Learning Path]] 前進
+9. 往[API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)前進
