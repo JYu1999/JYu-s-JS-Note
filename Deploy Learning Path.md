@@ -1,4 +1,4 @@
-1. 建議在第六點之前，完成 Laravel Learning Path
+1. 建議在第六點之前，完成 [[Laravel Learning Path]]
 2. 先了解 hosting 是什麼，有哪些種類
    - [不是工程師 架站用VPS還是Web Hosting，中文翻譯都有「虛擬」到底差在哪？](https://progressbar.tw/posts/102)
    - [學習VPS的重要性與各大Linux VPS 比較與推薦 (Linode, DigitalOcean, Vultr, AWS Lightsail)
