@@ -16,7 +16,7 @@
     - texteditor（必裝）: vscode or vim or phpstorm
     - graphic git: sourcetree
     - graphic database: tableplus, datagrip
-3. 準備好心態
+3. ==準備好心態==
 
 ## I. 初出茅廬
 > 初學者安裝完以上的東西應該已經心力交瘁，但接下來才是挑戰的開始...
