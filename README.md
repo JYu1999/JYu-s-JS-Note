@@ -12,18 +12,19 @@
 
 - 完成到 Sec. 5 去找工作「可能」會比較穩，但還是依公司型態和個人背景而定，沒有絕對。
 
-
+---
 ## Sec. 0 在開始之前 (Est. 1 Week)
 ### 1. 環境設置：
-    - OS: Linux or MacOS，不建議 Windows。你也可以直接開一台 Host，直接從 CLI 介面開始。
-    - Database: MySQL or Mariadb or PostgreSQL
-    - Webserver: Nginx(推) or Apache
-    - Language: PHP or others
+ - OS: Linux or MacOS，不建議 Windows。你也可以直接開一台 Host，直接從 CLI 介面開始。
+ - Database: MySQL or Mariadb or PostgreSQL
+- Webserver: Nginx(推) or Apache
+- Language: PHP or others
 ### 2. 工具安裝（自己選擇要裝什麼）
-    - texteditor: vscode or vim or phpstorm
-    - graphic git: sourcetree 
-    - graphic database: tableplus, datagrip
+- texteditor: vscode or vim or phpstorm
+ - graphic git: sourcetree 
+- graphic database: tableplus, datagrip
 
+---
 ## Sec. 1 (Est. 3.5~4.5 Month)
 > 初學者安裝完以上的東西應該已經心力交瘁，甚至重灌好幾次，但接下來才是挑戰的開始...
 > 以下四個基本上是後端工程師的必備技能
@@ -31,7 +32,7 @@
 ### [PHP Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/PHP%20Learning%20Path.md)
 用來寫後端的語言，沒什麼好說的
 
-### [Git Learning Path]()
+### [Git Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Git%20Learning%20Path.md)
 用來版本控制，每個工程師都該會
 
 ### [HTML & CSS Learning Path]()
@@ -50,6 +51,7 @@
 - SQL/HTML Injection
 - Validation
 
+---
 ## Sec. 2 (Est. 2~3 Month)
 > 完成以上的路程，對後端也有一定的認識了。
 > 接著我們進到稍微複雜一點的地帶...
@@ -63,6 +65,7 @@ PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不�
 ### [Linux Learning Path]()
 學完 Laravel  應該就具備基礎網頁製作的能力，接下來就是要把網頁上 Server。不過在上 Server 之前最好徹底了解一下 Linux，否則會不斷搞砸、不斷重啟、然後還不知道問題在哪...
 
+---
 ## Sec. 3 (Est. 1~2 Month)
 
 ### [Deploy Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Deploy%20Learning%20Path.md)
