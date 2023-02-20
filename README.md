@@ -35,8 +35,10 @@
 ### [Git Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Git%20Learning%20Path.md)
 用來版本控制，每個工程師都該會
 
-### [HTML & CSS Learning Path]()
+### HTML & CSS Learning Path
 後端基本上還是要會「看得懂」前端
+網路上相關資源非常多，這裡就不列出資源。
+要特別注意的是，後端不用特別在意切版，只要對 HTML tag, attribute, flexbox, grid 等稍微有概念即可。
 
 ### (Basic) [Database Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Database%20Learning%20Path.md)
 跟資料庫互動也是一定要會的，不過這裡只單純指 sql 語法，還不用去優化效率和容量。
@@ -83,20 +85,20 @@ PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不�
 
 ## Sec. 4
 
-### [Dokcer Learning Path]()
+### Dokcer Learning Path
 
-### [Testing Learning Path]()
+### Testing Learning Path
 
-### [CI/CD Learning Path]()
+### CI/CD Learning Path
 
 ## Sec. 5 進階
 > 上面的路程基本上都是以「會使用」工具為主，到這邊開始會需要深入去探討安全性、效能相關的問題
 
-### [Algorithm Learning Path]()
+### Algorithm Learning Path
 
 ### (Advanced) [Database Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Database%20Learning%20Path.md)
 
-### (Advanced) [API Learning Path]()
+### (Advanced) [API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)
 
 
 
