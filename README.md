@@ -10,10 +10,12 @@
 
 - 我提供的資源（網站/課程/影片/書籍），不一定適用於所有人。建議大家從我提供的資源中，找出一些關鍵字，去搜尋對自己最有幫助的資源。
 
+- 完成到 Sec. 5 去找工作「可能」會比較穩，但還是依公司型態和個人背景而定，沒有絕對。
+
 
 ## Sec. 0 在開始之前 (Est. 1 Week)
 1. 環境設置：
-    - OS: Linux or MacOS，極度不建議 windows
+    - OS: Linux or MacOS，不建議 Windows。你也可以直接開一台 web server，直接從 CLI 介面開始。
     - Database: MySQL or Mariadb or PostgreSQL
     - Webserver: Nginx(推) or Apache
     - Language: PHP or others
@@ -23,7 +25,7 @@
     - graphic database: tableplus, datagrip
 
 ## Sec. 1 (Est. 3.5~4.5 Month)
-> 初學者安裝完以上的東西應該已經心力交瘁，但接下來才是挑戰的開始...
+> 初學者安裝完以上的東西應該已經心力交瘁，甚至重灌好幾次，但接下來才是挑戰的開始...
 > 以下四個基本上是後端工程師的必備技能
 > - PHP: 用來寫後端的語言，沒什麼好說的
 > - Git: 用來版本控制，每個工程師都該會
@@ -36,13 +38,13 @@
 
 ### [HTML & CSS Learning Path]()
 
-### [Database Learning Path]()
+### (Basic) [Database Learning Path]()
 
 ### Stop to Practice!
 看完以上幾個，可以先作一個小作品出來。像是留言板、TodoList 之類的
 
 ## Sec. 2 (Est. 2~3 Month)
-
+> 完成以上的路程，對後端也有一定的認識了。
 ### [Laravel Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Laravel%20Learning%20Path.md)
 
 ### [Javascript Learning Path]()
@@ -53,7 +55,7 @@
 
 ### [Deploy Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Deploy%20Learning%20Path.md)
 
-### [API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)
+### (Basic) [API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)
 
 
 ---
