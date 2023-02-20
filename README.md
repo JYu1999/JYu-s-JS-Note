@@ -15,7 +15,7 @@
 ---
 ## Sec. 0 在開始之前 (Est. 1 Week)
 ### 1. 環境設置：
- - OS: Linux or MacOS，不建議 Windows。你也可以直接開一台 Host，直接從 CLI 介面開始。
+ - OS: Linux or MacOS，不建議 Windows。你也可以開一台 Host，直接從 CLI 介面開始。
  - Database: MySQL or Mariadb or PostgreSQL
 - Webserver: Nginx(推) or Apache
 - Language: PHP or others
@@ -56,19 +56,21 @@
 > 完成以上的路程，對後端也有一定的認識了。
 > 接著我們進到稍微複雜一點的地帶...
 
+### [Javascript Learning Path]()
+主要集中在 DOM 的部分，這裡大概知道 DOM 會怎麼跟 HTML  做互動即可。沒空的話，詳細的 JS 概念（e.g. hoisting, callstack)可以不用了解。
+有空的話當然就去把 JS  概念補一補～
+
 ### [Laravel Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Laravel%20Learning%20Path.md)
 PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不用擔心架構。
 
-### [Javascript Learning Path]()
-主要集中在 DOM 的部分，大概知道 DOM 會怎麼跟 HTML  做互動即可。詳細的 JS 概念（e.g. hoisting, callstack)可以不用了解。
-
 ### [Linux Learning Path]()
-學完 Laravel  應該就具備基礎網頁製作的能力，接下來就是要把網頁上 Server。不過在上 Server 之前最好徹底了解一下 Linux，否則會不斷搞砸、不斷重啟、然後還不知道問題在哪...
+學完 Laravel  應該就具備基礎網頁製作的能力，接下來就是要把網頁上 Server。不過在上 Server 之前最好徹底熟悉一下 Linux，否則會不斷搞砸、不斷重啟、然後還不知道問題在哪...
 
 ---
 ## Sec. 3 (Est. 1~2 Month)
-
+> 到這邊我們終於要正式把網站上 Server 了...
 ### [Deploy Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Deploy%20Learning%20Path.md)
+首先要先知道如何把辛苦做的網站部署到 Host 上，並熟悉其原理。當然可以只看著教學一步步做，不管背後發生了什麼。但缺點就是發生了問題，也很難 debug...
 
 ### (Basic) [API Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/API%20Learning%20Path.md)
 
