@@ -15,13 +15,13 @@
 
 ## Sec. 0 在開始之前 (Est. 1 Week)
 1. 環境設置：
-    - OS: Linux or MacOS，不建議 Windows。你也可以直接開一台 web server，直接從 CLI 介面開始。
+    - OS: Linux or MacOS，不建議 Windows。你也可以直接開一台 Host，直接從 CLI 介面開始。
     - Database: MySQL or Mariadb or PostgreSQL
     - Webserver: Nginx(推) or Apache
     - Language: PHP or others
 2. 工具安裝（自己選擇要裝什麼）
-    - texteditor（必裝）: vscode or vim or phpstorm
-    - graphic git: sourcetree
+    - texteditor: vscode or vim or phpstorm
+    - graphic git: sourcetree 
     - graphic database: tableplus, datagrip
 
 ## Sec. 1 (Est. 3.5~4.5 Month)
@@ -32,7 +32,7 @@
 > - HTML & CSS: 後端基本上還是要會「看得懂」前端
 > - Database: 跟資料庫互動也是一定要會的，不過這裡只單純指 sql 語法，還不用去優化效率和容量。
 
-### [PHP Learning Path]()
+### [PHP Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/PHP%20Learning%20Path.md)
 
 ### [Git Learning Path]()
 
