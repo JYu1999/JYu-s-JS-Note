@@ -42,9 +42,20 @@
 
 ### Stop to Practice!
 看完以上幾個，可以先作一個小作品出來。像是留言板、TodoList 之類的
+並嘗試在此作品中用到以下概念：
+- Session/Cookie
+- MVC
+- CRUD
+- OOP
+- SQL/HTML Injection
+- Validation
 
 ## Sec. 2 (Est. 2~3 Month)
 > 完成以上的路程，對後端也有一定的認識了。
+> 接著我們進到稍微複雜一點的地帶...
+> - Laravel: PHP 的框架，藉由 Convention 讓工程師的溝通協作更順暢，也不用擔心架構。
+> - Javascript: 主要集中在 DOM 的部分，大概知道 DOM 會怎麼跟 HTML  做互動即可。詳細的 JS 概念（e.g. hoisting, callstack)可以不用了解。
+> - Linux: 學完 Laravel  應該就具備基礎網頁製作的能力，接下來就是要把網頁上 Server。不過在上 Server 之前最好徹底了解一下 Linux，否則會不斷搞砸、不斷重啟、然後還不知道問題在哪...
 ### [Laravel Learning Path](https://github.com/JYu1999/BackendLearningPath/blob/master/Laravel%20Learning%20Path.md)
 
 ### [Javascript Learning Path]()
