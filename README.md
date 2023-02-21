@@ -21,8 +21,8 @@
 - Language: PHP or others
 ### 😀 工具安裝（自己選擇要裝什麼）
 - texteditor: vscode or vim or phpstorm
- - graphic git: sourcetree 
-- graphic database: tableplus, datagrip
+- (optional) graphic git: sourcetree 
+- (optional) graphic database: tableplus, datagrip
 
 ---
 ## Sec. 1 (Est. 3.5~4.5 Month)
