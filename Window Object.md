@@ -1,0 +1,2 @@
+- The window object represents an open window in a browser.
+- [w3school: Window Object](https://www.w3schools.com/jsref/obj_window.asp)
